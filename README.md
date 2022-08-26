@@ -11,8 +11,11 @@ I have always wanted to work in a position that helps people. Along the way, I f
 ### Fun Facts
 
 🧶 I'm a crafter mostly making things with crochet. I've made several blankets for friends and family, but will never sell my work. 
+
 💃 Partner dancing is my favorite hobby. 
+
 🏋️‍♀️ I'm a licensed physical therapist.
+
 🐈 All my cats (3) know tricks including "stand up", "high five", "turn around", and "pedestal". I have a dog too.
 
 ## What I'm working on
