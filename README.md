@@ -21,7 +21,7 @@ I have always wanted to work in a position that helps people. Along the way, I f
 ## What I'm working on
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alternategait&theme=buefy)](https://git.io/streak-stats)
 
-Working to build skills in JavaScript and MERN stack to create beautiful, useful and functional websites. A big project is in the works for families and caregives of people requring physical assistance for daily activities. 
+Working to build skills in JavaScript and MERN stack to create beautiful, useful and functional websites. A big project is in the works for families and caregivers of people requring physical assistance for daily activities. 
 
 ## Some projects I'm proud of
 
