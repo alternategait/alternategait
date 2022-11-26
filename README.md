@@ -16,7 +16,7 @@ I have always wanted to work in a position that helps people. Along the way, I f
 
 🏋️‍♀️ I'm a licensed physical therapist.
 
-🐈 All my cats (3) know tricks including "stand up", "high five", "turn around", and "pedestal". I have a dog too.
+🐈 All my cats (3) know tricks including "stand up", "high five", "turn around", and "pedestal". I have a [dog](https://github.com/alternategait/QuinnFiles#readme) too.
 
 ## What I'm working on
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alternategait&theme=buefy)](https://git.io/streak-stats)
