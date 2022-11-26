@@ -29,5 +29,6 @@ Working to build skills in JavaScript and MERN stack to create beautiful, useful
 [<img src="https://user-images.githubusercontent.com/102367926/186933905-0191fe92-4d89-4555-bef8-3e99dcb4ffa4.png" height = "300"/>](https://clearskypgh.netlify.app/)
 [<img src="https://user-images.githubusercontent.com/102367926/186933952-891952c4-0b16-4ce9-b915-7161d50277d0.png" height = "300"/>](https://tarotflip.herokuapp.com/)
 [<img src="https://user-images.githubusercontent.com/102367926/187096558-286aeb65-a5cb-4ce7-9d40-22f6e9b1c362.png" height ="300"/>](https://threeriversdietary-corn.netlify.app/)
-[<img height ="300" alt="image acts as link to fragrance safe products site" src="https://user-images.githubusercontent.com/102367926/204097251-99513331-4246-47cf-8768-8ff231082a86.png">](https://fragrance-safe-products.cyclic.app/)
+[<img height ="300" alt="image acts as link to fragrance safe products site" src="https://user-images.githubusercontent.com/102367926/204097251-99513331-4246-47cf-8768-8ff231082a86.png">](https://Fragrance-Safe-Products.cyclic.app/)
+[<img height="300" alt="image acts as link to brandih api assessment site" src="https://user-images.githubusercontent.com/102367926/204097487-2b67ca7f-3bb7-4d21-84cb-e7b02b34c392.png">](https://BrandiH-Api-Assessment.Cyclic.App)
 
